@@ -1,2 +1,2 @@
 # git-demo
-this is my first reposetry
+this is my first (git) reposetry
